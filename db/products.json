@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Comida para Perros",
+    "description": "Nutritiva comida balanceada para perros de todas las edades.",
+    "code": "CP-001",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Alimentos",
+    "image": "https://ejemplo.com/comida-para-perros.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Juguete para Gatos",
+    "description": "Juguete interactivo para mantener entretenidos a los gatos.",
+    "code": "JG-002",
+    "price": 12.99,
+    "status": true,
+    "stock": 30,
+    "category": "Juguetes",
+    "image": "https://ejemplo.com/juguete-para-gatos.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Champú para Mascotas",
+    "description": "Champú suave y sin lágrimas para bañar a perros y gatos.",
+    "code": "CH-003",
+    "price": 15.99,
+    "status": true,
+    "stock": 20,
+    "category": "Cuidado Personal",
+    "image": "https://ejemplo.com/champu-para-mascotas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Collar para Perros",
+    "description": "Collar ajustable y resistente para perros de todos los tamaños.",
+    "code": "CL-004",
+    "price": 19.99,
+    "status": true,
+    "stock": 35,
+    "category": "Accesorios",
+    "image": "https://ejemplo.com/collar-para-perros.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cama para Mascotas",
+    "description": "Cama cómoda y acogedora para que tu mascota descanse.",
+    "code": "CM-005",
+    "price": 45.99,
+    "status": true,
+    "stock": 15,
+    "category": "Mobiliario",
+    "image": "https://ejemplo.com/cama-para-mascotas.jpg"
+  }
+]
